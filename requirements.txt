@@ -1,5 +1,9 @@
+datasets
 torch
 torchvision
 pillow
 gradio
+scikit-image
+numpy
+matplotlib
 
